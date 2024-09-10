@@ -55,7 +55,7 @@ Feel free to submit issues and pull requests. Contributions are welcome!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/RezaTaheri01/sub-merge/blob/main/LICENSE)) file for details.
 
 ## Acknowledgements
 
