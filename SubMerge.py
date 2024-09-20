@@ -69,7 +69,7 @@ class FileMergerApp(QWidget):
         main_layout.addWidget(self.btn_merge, alignment=Qt.AlignCenter)
 
         self.setLayout(main_layout)
-
+        
         # Set main window properties
         self.setWindowIcon(QIcon('./images/SubMerge.ico'))
         self.setWindowTitle('Subtitle File Merger')
